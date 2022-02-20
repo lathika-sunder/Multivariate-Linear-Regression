@@ -21,11 +21,11 @@ Find the coefficients using .coef_ and intercept using .intercept_ .
 Predict the liner regression using regr.predict() method and display the result.
 
 ## Program:
-'''
-Program to implement multivariate linear regression and predict the output.
-Developed by: Lathika Sunder
-RegisterNumber:212221230054
-'''
+```
+#Program to implement multivariate linear regression and predict the output.
+#Developed by: Lathika Sunder
+#RegisterNumber:212221230054
+
 import pandas as pd
 
 from sklearn import linear_model
